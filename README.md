@@ -6,8 +6,7 @@
 - **React**: Frontend library
 - **Node.js**: Server-side JavaScript
 - **JWT**: Token-based authentication
-- **Nodemailer**: Email handling
-- **Mailtrap**: Email testing
+- **Mailtrap**: Sending Emails
 - **bcrypt**: Password hashing
 
 ## Project Overview
